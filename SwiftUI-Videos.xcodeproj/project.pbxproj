@@ -13,6 +13,7 @@
 		E3978E74250FDCA00059ADD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3978E73250FDCA00059ADD9 /* Assets.xcassets */; };
 		E3978E77250FDCA00059ADD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3978E76250FDCA00059ADD9 /* Preview Assets.xcassets */; };
 		E3978E7A250FDCA00059ADD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3978E78250FDCA00059ADD9 /* LaunchScreen.storyboard */; };
+		E3978E82250FE5300059ADD9 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3978E81250FE5300059ADD9 /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E3978E76250FDCA00059ADD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E3978E79250FDCA00059ADD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3978E7B250FDCA00059ADD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3978E81250FE5300059ADD9 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E3978E6D250FDC9E0059ADD9 /* AppDelegate.swift */,
 				E3978E6F250FDC9E0059ADD9 /* SceneDelegate.swift */,
 				E3978E71250FDC9E0059ADD9 /* ContentView.swift */,
+				E3978E81250FE5300059ADD9 /* Video.swift */,
 				E3978E73250FDCA00059ADD9 /* Assets.xcassets */,
 				E3978E78250FDCA00059ADD9 /* LaunchScreen.storyboard */,
 				E3978E7B250FDCA00059ADD9 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3978E6E250FDC9E0059ADD9 /* AppDelegate.swift in Sources */,
+				E3978E82250FE5300059ADD9 /* Video.swift in Sources */,
 				E3978E70250FDC9E0059ADD9 /* SceneDelegate.swift in Sources */,
 				E3978E72250FDC9E0059ADD9 /* ContentView.swift in Sources */,
 			);
